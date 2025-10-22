@@ -1,3 +1,4 @@
-Análise Crítica de Narrativa (ACN) 
+Esta base algorítmica "ACN-Futuros" é capaz de codificar conteúdos textuais de acordo com a estratégia medotológica da Análise Crítica de Narrativa (ACN) de Salmi, Dowbor e Fleury (2025).
 
-A ACN em perspectiva sociológica é a abordagem metodológica na qual está estrutura a presente base de dados "ACN_1-2".
+Referências
+Salmi, Frederico; Dowbor, Monika; Fleury, Lorena C. Blá blá blá (2025)
